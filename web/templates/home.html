@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>RAG Chat</title>
+		<link rel="stylesheet" href="../static/home.css" />
+	</head>
+	<body>
+		<main class="app hero">
+			<!-- top-right ghost / avatar icon -->
+			<div class="top-right-icon">👻</div>
+
+			<div class="hero-center">
+				<div class="promo">Free Usage · <a href="#">qdrant v1.10.1</a></div>
+				<div class="hero-head">
+					<div class="big-spinner" aria-hidden="true"></div>
+					<h1>Ready when you are.</h1>
+				</div>
+
+				<!-- centered composer card -->
+				<form id="composer" class="composer-card" action="javascript:void(0);">
+					<textarea id="input" class="input" rows="1" placeholder="How can I help you today?"></textarea>
+					<div class="composer-right">
+						<select id="modelSelect" class="model-select"><option>RAG 1.1</option></select>
+						<button id="btnSend" type="submit" class="send">⬆</button>
+					</div>
+				</form>
+
+				<div class="composer-note">Chat with the model about Foods and Nutritions!</div>
+			</div>
+
+			<!-- a simple messages area (hidden until needed) -->
+			<section id="chat" class="chat" aria-live="polite" hidden>
+				<div id="messages" class="messages"></div>
+			</section>
+		</main>
+
+		<script src="../static/home.js" defer></script>
+	</body>
+	</html>
