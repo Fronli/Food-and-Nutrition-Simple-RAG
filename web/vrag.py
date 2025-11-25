@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
-from qdrant_client import QdrantClient
+from qdrant_client import QdrantClient, models
 from langchain_qdrant import QdrantVectorStore
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
@@ -49,7 +49,8 @@ embeddings = HuggingFaceEmbeddings(
 db= QdrantVectorStore(
     client=qdrant_client,
     embedding= embeddings,
-    collection_name=QDRANT_COLLECTION_NAME
+    collection_name=QDRANT_COLLECTION_NAME,
+    distance=models.models.Distance.DOT
 )
 
 # Groq Client Config

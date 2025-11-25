@@ -1,162 +1,162 @@
 [
   {
-    "question": "Resep mana yang membutuhkan **buttermilk** dan **mentega** untuk adonan kuenya?",
+    "question": "Which recipe requires both buttermilk and butter for the cake batter?",
     "relevant_doc": "A-Number-1 Banana Cake"
   },
   {
-    "question": "Resep **Smoothie Pisang Mangga Mudah** (Easy Mango Banana Smoothie) mengandung buah apa saja selain mangga?",
+    "question": "In the Easy Mango Banana Smoothie recipe, what fruits are used besides mango?",
     "relevant_doc": "Easy Mango Banana Smoothie"
   },
   {
-    "question": "Makanan penutup **Apple-Cranberry Crostada** harus dipanggang pada suhu berapa?",
+    "question": "At what temperature should the Apple-Cranberry Crostada dessert be baked?",
     "relevant_doc": "Apple-Cranberry Crostada"
   },
   {
-    "question": "Berapa gram **Total Karbohidrat** pada resep **Old-Fashioned Apple Dumplings**?",
+    "question": "How many grams of Total Carbohydrates are in the Old-Fashioned Apple Dumplings recipe?",
     "relevant_doc": "Old-Fashioned Apple Dumplings"
   },
   {
-    "question": "Resep puding mana yang mengharuskan Anda mencampur **pisang**, **susu**, **yogurt**, dan **madu** dalam blender?",
+    "question": "Which pudding recipe requires blending bananas, milk, yogurt, and honey together?",
     "relevant_doc": "Simple Avocado Milkshake"
   },
   {
-    "question": "Bahan apa yang digunakan sebagai pengganti **telur** dalam resep **Roti Pisang Hampir Tanpa Lemak** (Almost No Fat Banana Bread)?",
+    "question": "What ingredient is used as an egg substitute in the Almost No Fat Banana Bread recipe?",
     "relevant_doc": "Almost No Fat Banana Bread"
   },
   {
-    "question": "Masakan gurih apa yang menggunakan **bacon** dan juga menyertakan **kurma** serta **almond**?",
+    "question": "Which savory dish uses bacon and also includes dates and almonds?",
     "relevant_doc": "Bacon Wrapped Dates"
   },
   {
-    "question": "Berapa persentase **Serat Makanan** dari resep **Black Bean Avocado Salsa**?",
+    "question": "What is the Dietary Fiber percentage in the Black Bean Avocado Salsa recipe?",
     "relevant_doc": "Black Bean Avocado Salsa"
   },
   {
-    "question": "Buah apa yang digunakan bersama **anggur**, **plum**, dan **nanas** dalam resep minuman **Ponche de Frutas**?",
+    "question": "Which fruit is used along with grapes, plums, and pineapple in the Ponche de Frutas (Fruit Punch) recipe?",
     "relevant_doc": "Ponche de Frutas (Fruit Punch)"
   },
   {
-    "question": "Manisan apa yang dibuat dengan **kulit semangka** yang dimasak dengan **air**, **gula**, **spearmint**, dan **kemangi**?",
+    "question": "Which candy is made from watermelon rind cooked with water, sugar, spearmint, and basil?",
     "relevant_doc": "Chewy Watermelon Rind Candy"
   },
   {
-    "question": "Resep saus barbekyu mana yang mencampurkan **molasses delima** dengan **saus tomat** dan **kecap asin**?",
+    "question": "Which barbecue sauce recipe mixes pomegranate molasses with tomato sauce and soy sauce?",
     "relevant_doc": "Pomegranate Molasses Barbecue Sauce"
   },
   {
-    "question": "Untuk membuat **Thai Prawn & Ginger Noodles**, apa bahan yang dicampur dengan **jus jeruk** dan **air** untuk membuat saus?",
+    "question": "For the Thai Prawn & Ginger Noodles recipe, what ingredient is mixed with orange juice and water to make the sauce?",
     "relevant_doc": "Thai Prawn & Ginger Noodles"
   },
   {
-    "question": "Resep **Salad Quinoa, Brokoli, Kacang-kacangan, dan Delima** (Quinoa Salad with Broccoli, Nuts, and Pomegranate) harus dibumbui dengan apa?",
+    "question": "What is the seasoning used for the Quinoa Salad with Broccoli, Nuts, and Pomegranate besides dill and lemon zest?",
     "relevant_doc": "Quinoa Salad with Broccoli, Nuts, and Pomegranate"
   },
   {
-    "question": "Makanan penutup manakah yang mengharuskan Anda mengocok **putih telur** hingga kaku dan melipatnya ke dalam adonan untuk membuat struktur yang ringan?",
+    "question": "Which dessert requires beating egg whites until stiff and folding them into the batter to create a light structure?",
     "relevant_doc": "Pavlova with Winter Fruits"
   },
   {
-    "question": "Resep **Blackened Salmon Tacos with Chunky Mango Avocado Salsa** direkomendasikan untuk dimakan dengan apa?",
+    "question": "What is the recommended accompaniment for the Blackened Salmon Tacos with Chunky Mango Avocado Salsa?",
     "relevant_doc": "Blackened Salmon Tacos with Chunky Mango Avocado Salsa"
   },
   {
-    "question": "Berapa mg **Natrium** pada resep **Healthy Fish Tacos with Mango-Pineapple Slaw**?",
+    "question": "How many milligrams of Sodium are in the Healthy Fish Tacos with Mango-Pineapple Slaw recipe?",
     "relevant_doc": "Easy Fish Tacos with Mango-Pineapple Slaw"
   },
   {
-    "question": "Resep ham mana yang menggunakan **madu** dan **moster Inggris** untuk glasurnya?",
+    "question": "Which ham recipe uses honey and English mustard for its glaze?",
     "relevant_doc": "Apricot and Honey Ham Glaze"
   },
   {
-    "question": "Bahan utama apa yang harus dicampur ke dalam **krim keju** dan **gula** untuk membuat isian **Strawberry Cheesecake**?",
+    "question": "What main ingredient should be mixed into the cream cheese and sugar to make the filling for Strawberry Cheesecake?",
     "relevant_doc": "Strawberry Cheesecake"
   },
   {
-    "question": "Berapa persentase **Lemak Jenuh** dari resep **Nanaimo Bars**?",
+    "question": "What is the Saturated Fat percentage in the Nanaimo Bars recipe?",
     "relevant_doc": "Nanaimo Bars"
   },
   {
-    "question": "Resep **Muffin Pisang Haver** (Banana Oat Muffins) harus dipanggang pada suhu berapa?",
+    "question": "At what temperature should Banana Oat Muffins be baked?",
     "relevant_doc": "Banana Oat Muffins"
   },
   {
-    "question": "Resep masakan **fillet ikan** dengan **glaze nanas mangga** mana yang menggunakan **nasi kelapa** sebagai pendamping?",
+    "question": "Which fish fillet recipe with mango-pineapple glaze is served with coconut rice?",
     "relevant_doc": "Mahi Mahi with Coconut Rice and Mango Salsa"
   },
   {
-    "question": "Saus buah apa yang mengharuskan Anda merebus **nektarin** yang sudah dikupas dengan **gula** dan **jus lemon**?",
+    "question": "Which fruit sauce requires simmering peeled nectarines with sugar and lemon juice?",
     "relevant_doc": "Nectarine Jam"
   },
   {
-    "question": "Hidangan apa yang menggabungkan **kacang mete** yang dihaluskan, **pasta kari**, **labu siam**, **lentil**, dan **santan**?",
+    "question": "Which dish combines ground cashews, curry paste, chayote squash, lentils, and coconut milk?",
     "relevant_doc": "Vegan curried squash, lentil & coconut soup"
   },
   {
-    "question": "Hidangan pasta gurih mana yang menggunakan **keju halloumi**, **bit** (beetroot), **alpukat**, dan **dill**?",
+    "question": "Which savory pasta dish uses halloumi cheese, beetroot, avocado, and dill?",
     "relevant_doc": "Scandi beetroot & salmon pasta"
   },
   {
-    "question": "Untuk **Lemon & spinach rice with feta**, bumbu apa yang digunakan selain **dill** dan **lemon zest**?",
+    "question": "For the Lemon & spinach rice with feta recipe, what seasoning is used besides dill and lemon zest?",
     "relevant_doc": "Lemon & spinach rice with feta"
   },
   {
-    "question": "Berapa kandungan **Protein** dalam resep **Spicy beef stew with beans & peppers**?",
+    "question": "How much Protein does the Spicy beef stew with beans & peppers recipe contain?",
     "relevant_doc": "Spicy beef stew with beans & peppers"
   },
   {
-    "question": "Resep sup mana yang membutuhkan **labu siam** dan **ubi jalar** yang dimasak dengan **kari** dan **santan**?",
+    "question": "Which soup recipe uses chayote squash and sweet potatoes cooked with curry and coconut milk?",
     "relevant_doc": "Coconut fish curry & rice"
   },
   {
-    "question": "Hidangan apa yang menggabungkan **telur** dan **ricotta** dengan **zukini** (courgette), **bawang**, **tomat** dan **keju cheddar**?",
+    "question": "Which dish combines eggs and ricotta with courgette (zucchini), onions, tomatoes, and cheddar cheese?",
     "relevant_doc": "Creamy courgette lasagne"
   },
   {
-    "question": "Resep paella mana yang dimasak dengan **udang**, **jagung manis**, dan **kacang polong**?",
+    "question": "Which paella-style recipe includes prawns, sweetcorn, and runner beans?",
     "relevant_doc": "Prawn, sweetcorn & runner bean pasta"
   },
   {
-    "question": "Resep **Beef & Guinness stew with carrots** membutuhkan waktu memasak total berapa lama di oven?",
+    "question": "For the Beef & Guinness stew with carrots recipe, what is the total oven cooking time?",
     "relevant_doc": "Beef & Guinness stew with carrots"
   },
   {
-    "question": "Resep ayam mana yang digrill dan disajikan dengan **nasi** dan **salsa nanas**?",
+    "question": "Which chicken recipe is grilled and served with rice and pineapple salsa?",
     "relevant_doc": "Cajun turkey steaks with pineapple salsa"
   },
   {
-    "question": "Apa nama resep **pai ikan** yang menggunakan **shoestring potato** sebagai topping?",
+    "question": "What is the name of the fish pie recipe that uses shoestring potatoes as the topping?",
     "relevant_doc": "Fish pie with shoestring potato topping"
   },
   {
-    "question": "Resep mana yang memadukan **brokoli**, **kacang kenari**, dan **blue cheese** (keju biru) dalam masakan pasta?",
+    "question": "Which recipe combines broccoli, walnuts, and blue cheese in a pasta dish?",
     "relevant_doc": "Broccoli, walnut and blue cheese pasta"
   },
   {
-    "question": "Resep **Tumis Ayam & Brokoli** (Chicken & broccoli pasta bake) mengandung berapa gram **Karbohidrat**?",
+    "question": "How many grams of Carbohydrates are in the Chicken & broccoli pasta bake recipe?",
     "relevant_doc": "Chicken & broccoli pasta bake"
   },
   {
-    "question": "Resep **sup kental** mana yang menggunakan **ubi jalar** dan **lentil merah**?",
+    "question": "Which thick soup recipe uses sweet potatoes and red lentils?",
     "relevant_doc": "Spicy red lentil chilli with guacamole & rice"
   },
   {
-    "question": "Apa nama resep **burger** yang terbuat dari **jackfruit** dan **jamur Portobello**?",
+    "question": "What is the name of the burger recipe made with jackfruit and Portobello mushrooms?",
     "relevant_doc": "Portobello jackfruit burgers"
   },
   {
-    "question": "Apa nama resep **kue tart** yang menggunakan **keju biru**, **buah ara** (fig), dan **ham**?",
+    "question": "What is the name of the tart recipe that uses blue cheese, figs, and cured ham?",
     "relevant_doc": "Tartines with blue cheese, fig & ham"
   },
   {
-    "question": "Resep manakah yang menyajikan **gnocchi** dengan **labu siam** (squash), **bayam**, dan **mascarpone**?",
+    "question": "Which recipe serves gnocchi with squash, spinach, and mascarpone?",
     "relevant_doc": "Creamy baked gnocchi with squash & spinach"
   },
   {
-    "question": "Resep mana yang menggunakan **bubur persimmon** (persimmon pulp) dan **baking soda** sebelum dicampur dengan adonan roti?",
+    "question": "Which recipe uses persimmon pulp and baking soda before combining it with the bread batter?",
     "relevant_doc": "Persimmon Bread II"
   },
   {
-    "question": "Bumbu dapur apa yang digunakan di **Khoresht Fesenjaan** (Chicken with Pomegranate Sauce) selain **cardamom**, **cinnamon**, dan **saffron**?",
+    "question": "What spice is used in Khoresht Fesenjaan (Chicken with Pomegranate Sauce) besides cardamom, cinnamon, and saffron?",
     "relevant_doc": "Khoresht Fesenjaan (Chicken with Pomegranate Sauce)"
   }
 ]

@@ -6,10 +6,6 @@ from vrag import main_invoke
 
 app = FastAPI()
 
-# @app.get("/")
-# def gree():
-#     return "Welcome to server"
-
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="templates")

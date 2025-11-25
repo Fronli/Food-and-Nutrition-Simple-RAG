@@ -65,6 +65,4 @@ def evaluate_retriever(ground_truth_file: str, top_k: int = 5):
 
 
 if __name__ == "__main__":
-    # Contoh dataset evaluasi
-    # Format JSON: [{"question": "Which recipe contains avocado?", "relevant_doc": "Spicy chicken & avocado wraps"}, ...]
-    results = evaluate_retriever("rag_eval_dataset.json", top_k=5)
+   results = evaluate_retriever("rag_eval_dataset.json", top_k=5)
